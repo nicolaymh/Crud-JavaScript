@@ -1,10 +1,10 @@
-## Crud JavaScript
+## Crud JavaScript :walking:
 
 Un simple Crud con **_JAVASCRIPT, CSS Y HTML_ **estructurado mediante clases.
 
 Para editar o eliminar debe seleccionar un nombre de la lista...
 
-[### :point_right:  WEB...](https://crudinclasses.netlify.app/ '### WEB...')
+:point_right: [### WEB...](https://crudinclasses.netlify.app/ '### WEB...') :point_left:
 
 <div>
 <p style = 'text-align:center;'>
