@@ -5,7 +5,7 @@
 
 :v:
 
-:point_right: [### WEB...](https://crudinclasses.netlify.app/ '### WEB...') :point_left:
+:point_right: [WEB...](https://crudinclasses.netlify.app/ 'WEB...') :point_left:
 
 <div>
 <p style = 'text-align:center;'>
