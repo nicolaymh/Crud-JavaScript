@@ -1,8 +1,9 @@
 ## Crud JavaScript :walking:
 
-Un simple Crud con **_JAVASCRIPT, CSS Y HTML_ **estructurado mediante clases.
+-   A simple Crud with **JAVASCRIPT, CSS AND HTML **structured by classes.
+-   To edit or delete you must select a name from the list...
 
-Para editar o eliminar debe seleccionar un nombre de la lista...
+:v:
 
 :point_right: [### WEB...](https://crudinclasses.netlify.app/ '### WEB...') :point_left:
 
